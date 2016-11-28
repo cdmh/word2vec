@@ -3,3 +3,8 @@ src/distance
 src/word-analogy
 src/word2phrase
 src/word2vec
+
+win32/Debug/*
+win32/Release/*
+win32/x64/Debug/*
+win32/x64/Release/*

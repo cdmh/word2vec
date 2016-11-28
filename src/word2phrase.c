@@ -16,7 +16,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
+#ifndef _WIN32
 #include <pthread.h>
+#endif
 
 #define MAX_STRING 60
 
